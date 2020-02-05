@@ -1,0 +1,2 @@
+# FreeIdea
+For Free Jetbrains
